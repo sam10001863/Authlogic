@@ -97,6 +97,7 @@ AUTHLOGIC tests **authorization behavior**, not software versions.
 ## ▶️ Installation
 
 ```bash
-git clone https://github.com/<your-username>/authlogic.git
+git clone https://github.com/sam10001863/authlogic.git
 cd authlogic
 pip install requests
+python3 authlogic.py
